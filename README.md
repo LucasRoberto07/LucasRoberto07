@@ -15,7 +15,7 @@
 
 - Foco no Futuro: Estou ativamente buscando especialização e aprofundamento em AWS Cloud, especialmente em arquitetura serverless e provisionamento de infraestrutura.
 
-📫 [Acesse o meu Linkedin](www.linkedin.com/in/lucas-robertooo)
+📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/lucas-robertooo/)
 
 ------
 
