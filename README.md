@@ -9,6 +9,12 @@
 
 💬 Sou um Desenvolvedor de Software focado em construir sistemas eficientes e escaláveis , atuando em todo o ciclo de desenvolvimento. Meu objetivo atual é me consolidar como um Desenvolvedor Back-end especialista em arquitetura de microsserviços e soluções em nuvem.
 
+💡 Soft Skills & Foco
+
+- Resolução de Problemas: Gosto de lidar com problemas complexos que necessitam de uma visão fora da caixa para ter um retorno.
+
+- Foco no Futuro: Estou ativamente buscando especialização e aprofundamento em AWS Cloud, especialmente em arquitetura serverless e provisionamento de infraestrutura.
+
 📫 [Acesse o meu Linkedin](www.linkedin.com/in/lucas-robertooo)
 
 ------
