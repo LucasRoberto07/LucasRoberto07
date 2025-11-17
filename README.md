@@ -28,7 +28,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px">
 </p>
 -----
-
-![Lucas Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRoberto07&show_icons=true&theme=dracula)
-
-![Lucas Roberto GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRoberto07&layout=compact&langs_count=7&theme=dracula)
