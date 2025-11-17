@@ -1,6 +1,6 @@
 ## Sejam Bem-Vindos ao Meu Mundo!
 
-![Gif do Kyle]([https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif](https://media1.tenor.com/m/sGv2hrQnMHQAAAAd/computer-kyle.gif))
+![Gif do Kyle](https://imgs.search.brave.com/2kRRwyJPN384iqJ9bzogXK_zBs2a2tBByGJelNq0cYI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OXg3UjBxUlRhY3dB/QUFBTS91c2luZy10/aGUtY29tcHV0ZXIt/a3lsZS1icm9mbG92/c2tpLmdpZg.gif)
 ---------
 
 👽 Olá, me chamo Lucas Roberto!
@@ -22,9 +22,9 @@
 ### Minhas Tecnologias
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="100px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="75px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="75px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="75px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="75px">
 </p>
 -----
