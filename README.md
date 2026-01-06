@@ -21,18 +21,3 @@ Meu objetivo é me aprofundar cada vez mais em **arquitetura de sistemas distrib
   <a href="https://aws.amazon.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="75" height="75"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="Docker" width="75" height="75"/></a>
 </p>
-
---
-
-
--->
-
-<p align="center">
-  <a href="https://github.com/seu-usuario/nome-do-repo-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-do-repo-1&theme=dracula" />
-  </a>
-  <a href="https://github.com/seu-usuario/nome-do-repo-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario&repo=nome-do-repo-2&theme=dracula" />
-  </a>
-</p>
-
