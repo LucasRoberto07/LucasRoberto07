@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas Roberto! 👋
 
-![Banner Tecnológico Abstrato](https://i.imgur.com/your-banner-image.png ) 
+![Gif do Kyle](https://imgs.search.brave.com/2kRRwyJPN384iqJ9bzogXK_zBs2a2tBByGJelNq0cYI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/OXg3UjBxUlRhY3dB/QUFBTS91c2luZy10/aGUtY29tcHV0ZXIt/a3lsZS1icm9mbG92/c2tpLmdpZg.gif)
 <!-- Sugestão: Use o banner que você criou com o Gemini aqui para uma identidade visual consistente! -->
 
 ### 🚀 Engenheiro de Software | Automação de Processos (RPA) & Cloud Solutions
